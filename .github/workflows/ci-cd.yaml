@@ -20,7 +20,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-        pip install "dvc[gcs]"
+        pip install dvc dvc-gs
 
     - name: Authenticate to Google Cloud
       uses: google-github-actions/auth@v2
