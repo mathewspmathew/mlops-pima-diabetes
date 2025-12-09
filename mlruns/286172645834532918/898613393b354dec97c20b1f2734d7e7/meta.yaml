@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/learnnn/week42/prima_diabetes_cicd/mlruns/286172645834532918/898613393b354dec97c20b1f2734d7e7/artifacts
+end_time: 1765256437185
+entry_point_name: ''
+experiment_id: '286172645834532918'
+lifecycle_stage: active
+run_id: 898613393b354dec97c20b1f2734d7e7
+run_name: awesome-zebra-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765256426598
+status: 3
+tags: []
+user_id: mathe

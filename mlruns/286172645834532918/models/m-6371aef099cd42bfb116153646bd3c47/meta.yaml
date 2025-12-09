@@ -1,0 +1,10 @@
+artifact_location: file:///E:/learnnn/week42/prima_diabetes_cicd/mlruns/286172645834532918/models/m-6371aef099cd42bfb116153646bd3c47/artifacts
+creation_timestamp: 1765256426862
+experiment_id: '286172645834532918'
+last_updated_timestamp: 1765256437126
+model_id: m-6371aef099cd42bfb116153646bd3c47
+model_type: null
+name: model
+source_run_id: 898613393b354dec97c20b1f2734d7e7
+status: 2
+status_message: null

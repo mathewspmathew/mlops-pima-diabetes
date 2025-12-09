@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+mlflow
+joblib
+dvc[gcs]
+fastapi
+uvicorn
+evidently
+pytest
