@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/learnnn/week42/prima_diabetes_cicd/mlruns/286172645834532918/e51d7b410f0e4d7baad71fea5173120b/artifacts
+end_time: 1765282039661
+entry_point_name: ''
+experiment_id: '286172645834532918'
+lifecycle_stage: active
+run_id: e51d7b410f0e4d7baad71fea5173120b
+run_name: sedate-mare-492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765282025799
+status: 3
+tags: []
+user_id: mathe

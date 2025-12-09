@@ -1,0 +1,2 @@
+Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,prediction,probability,timestamp
+2.0,120.0,70.0,20.0,80.0,25.3,0.5,33.0,0,0.09,2025-12-09T06:43:58.280390
