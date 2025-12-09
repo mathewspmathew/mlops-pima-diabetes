@@ -1,0 +1,5 @@
+[core]
+    remote = gcsremote
+['remote "gcsremote"']
+    url = gs://pima-mlops-dvc
+    credentialpath = C:\Users\mathe\AppData\Roaming\gcloud\application_default_credentials.json

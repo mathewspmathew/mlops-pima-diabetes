@@ -1,0 +1,22 @@
+artifact_path: file:///E:/learnnn/week42/prima_diabetes_cicd/mlruns/286172645834532918/models/m-5ccf10022b89434c909e49ef46c3d29f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-5ccf10022b89434c909e49ef46c3d29f
+model_size_bytes: 1712290
+model_uuid: m-5ccf10022b89434c909e49ef46c3d29f
+prompts: null
+run_id: d346d92ebd544a338135b3c1991657a0
+utc_time_created: '2025-12-09 05:49:55.504748'

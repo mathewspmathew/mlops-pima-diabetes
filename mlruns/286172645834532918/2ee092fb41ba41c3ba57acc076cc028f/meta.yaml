@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/learnnn/week42/prima_diabetes_cicd/mlruns/286172645834532918/2ee092fb41ba41c3ba57acc076cc028f/artifacts
+end_time: 1765259618150
+entry_point_name: ''
+experiment_id: '286172645834532918'
+lifecycle_stage: active
+run_id: 2ee092fb41ba41c3ba57acc076cc028f
+run_name: skittish-newt-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765259600896
+status: 3
+tags: []
+user_id: mathe
