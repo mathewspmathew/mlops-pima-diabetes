@@ -39,7 +39,7 @@ def log_prediction(data: dict, prediction: int, probability: float):
 
 @app.get("/")
 def home():
-    return {"message": "Cloud Run CI/CD Active checking"}
+    return {"message": "Cloud Run CI/CD Active checking with actions"}
 
 @app.post("/predict")
 def predict(data: PatientData):
