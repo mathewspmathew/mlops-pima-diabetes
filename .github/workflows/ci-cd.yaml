@@ -28,8 +28,14 @@ jobs:
     # Configure service account credentials for DVC + GCP auth
     - name: Configure credentials
       run: |
-        echo "${{ secrets.GCP_SA_KEY }}" > key.json
+        echo "${{ secrets.GCP_SA_KEY }}" | base64 --decode > key.json
         export GOOGLE_APPLICATION_CREDENTIALS="$PWD/key.json"
+    - name: Debug key.json
+      run: |
+        echo "---- key.json content ----"
+        cat key.json
+        echo "---- end key.json ----"
+
 
     # Modify DVC remote to use provided credentials
     - name: Setup DVC Remote
